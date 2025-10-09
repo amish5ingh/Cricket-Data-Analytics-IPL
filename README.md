@@ -64,25 +64,26 @@ A complete data analysis and visualization project based on the 2022 Indian Prem
 Here’s a glimpse of the visualizations included:
 
 ### 🏆 Most Match Wins by Team  
-`match_wins.png`
+![Most Match Wins by Team](match_wins.png)
 
-### 🎲 Toss Decision Trends  
-`toss_decision.png`
+### 🧢 Toss Decision Trends  
+![Toss Decision Trends](toss_decision.png)
 
 ### 🏁 Win Type Distribution  
-`win_type.png`
+![Win Type Distribution](win_type.png)
 
 ### 🌟 Top Player of the Match Awards  
-`player_awards.png`
+![Top Player of the Match Awards](player_awards.png)
 
 ### 🏏 Top Scorers  
-`top_scorers.png`
+![Top Scorers](top_scorers.png)
 
 ### 🎯 Best Bowling Figures  
-`best_bowling.png`
+![Best Bowling Figures](best_bowling.png)
 
 ### 🏟️ Venue Analysis  
-`venue_analysis.png`
+![Venue Analysis](venue_analysis.png)
+
 
 
 > 📁 All plots are saved in the `/images` folder. You can regenerate them by running the script.
