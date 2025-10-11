@@ -92,7 +92,7 @@ Here’s a glimpse of the visualizations included:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Cricket-Data-Analytics-IPL.git
+git clone https://github.com/amish5ingh/Cricket-Data-Analytics-IPL.git
 
 # Navigate to the project folder
 cd Cricket-Data-Analytics-IPL
