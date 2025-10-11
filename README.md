@@ -97,5 +97,11 @@ git clone https://github.com/amish5ingh/Cricket-Data-Analytics-IPL.git
 # Navigate to the project folder
 cd Cricket-Data-Analytics-IPL
 
-# Run the script
-python ipl_analysis.py
+# Launch Jupyter Notebook
+jupyter notebook
+
+# Open the notebook file
+ipl_analysis.ipynb
+
+# Run all cells step-by-step to see data analysis and visualizations
+
